@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.top_container{
+    background-color: #defdfa;
+    padding-top: 50px;
+}
+
+.intro{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-family: 'Square Peg', cursive;
+    font-size: 5rem;
+    color: #66BFBF;
+
+}
+
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #66BFBF;
+    font-weight: bold;
+}
+
+.intro-des{
+    color: #144d2d;
+}
+
+.top-cloud{
+    position:relative;
+    left:150px;
+    top:20px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+
+.profile{
+    width: 30%;
+    margin: 70px auto 50px auto;
+}
+
+.profile img{
+    width: 120px;
+}
+
+hr{
+    width: 50px;
+    border: 5px dotted #66BFBF;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #11999E;
+    font-weight: bold;
+}
+
+.skills{
+    width: 50%;
+    margin: 70px auto 50px auto;
+}
+
+.skills img{
+    width: 120px;
+}
+
+.skill-row{
+    text-align: left;
+    margin: 100px auto 150px auto;
+}
+
+.skill-img1{
+    float: left;
+    margin-right: 20px;
+}
+
+.skill-img2{
+    float: right;
+}
+
+
+.contact-me{
+    width: 40%;
+    margin: 70px auto 50px auto;
+
+}
+
+.contact-me p{
+    margin-bottom: 50px;
+}
+
+.btn{
+    margin: 20px 0 0 0;
+    font-size: 20px;
+    font-family: Arial;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #11cdd4 0%, #11999e 100%);
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-image: linear-gradient(to right, #30e3cb 0%, #2bc4ad 100%);
+}
+
+.bottom-container{
+    width: 100%;
+    background-color: #66BFBF;
+    padding: 50px 0px 50px 0px;
+    
+}
+
+.footer-link{
+    color: #11999E;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px 25px 0px 25px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.bottom-container p{
+    color: #e3e9e9;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 40px;
+    
+}
